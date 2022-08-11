@@ -1,0 +1,10 @@
+{
+    "The :attribute must be at least :length characters and contain at least one uppercase character." : "El :attribute debe tener al menos :length caracteres de longitud y contener al menos un carácter en mayúscula",
+    "The :attribute must be at least :length characters and contain at least one number." : "El :attribute debe tener al menos :length caracteres de longitud y contener al menos un número.",
+    "The :attribute must be at least :length characters and contain at least one special character." : "El :attribute debe tener al menos :length caracteres de longitud y contener al menos un carácter especial.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number." : "El :attribute debe tener al menos :length caracteres de longitud y contener al menos un carácter en mayúscula y un número.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character." : "El :attribute debe tener al menos :length caracteres de longitud y contener al menos un carácter en mayúscula y un carácter especial.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character." : "El :attribute debe tener al menos :length caracteres de longitud y contener al menos un carácter en mayúscula, un número y un carácter especial.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number." : "El :attribute debe tener al :length caracteres de longitud y contener al menos un carácter especial y un número.",
+    "The :attribute must be at least :length characters" : "El :attribute debe tener al menos :length caracteres de longitud"
+}

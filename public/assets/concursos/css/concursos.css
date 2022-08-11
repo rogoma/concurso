@@ -1,0 +1,8 @@
+label.requerido:after {
+    content: " *";
+    color:firebrick;
+}
+
+table.dataTable td {
+  font-size: 0.8em;
+}
